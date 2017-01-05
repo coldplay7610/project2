@@ -1,0 +1,85 @@
+
+<!--pages/post/post.wxml-->
+<view>
+  <swiper indicator-dots="true" autoplay="true" interval="5000">
+    <swiper-item>
+      <image src="/images/swiper/swiper1.jpg" />
+    </swiper-item>
+    <swiper-item>
+      <image src="/images/swiper/swiper2.jpg" />
+    </swiper-item>
+    <swiper-item>
+      <image src="/images/swiper/swiper3.jpg" />
+    </swiper-item>
+    <swiper-item>
+      <image src="/images/swiper/swiper4.jpg" />
+    </swiper-item>
+    <swiper-item>
+      <image src="/images/swiper/swiper5.jpg" />
+    </swiper-item>
+  </swiper>
+  <view class="post-container">
+    <view class="post-shop-date">
+      <image class="post-shop-logo" src="/images/logo.jpg" />
+      <text class="post-date">Nov 25 2017</text>
+    </view>
+    <text class="post-title">肯德基外带全家桶</text>
+    <image class="post-img" src="/images/post/1.jpg"></image>
+    <text class="post-content">肯德基宅急送外带全家桶，欢乐美味桶桶分享，优惠价79元，省19.5元起 外带全家桶包括：5块吮指原味鸡+6块香辣鸡翅+2个胡萝卜餐包+1根香甜粟米棒+1瓶1.25L装百事可乐.
+    </text>
+    <view class="post-like">
+      <image class="post-like-img" src="/images/icon/chat.png"></image>
+      <text class="post-like-text">92</text>
+      <image class="post-like-img" src="/images/icon/view.png"></image>
+      <text class="post-like-text">65</text>
+    </view>
+  </view>
+  <view class="post-container">
+    <view class="post-shop-date">
+      <image class="post-shop-logo" src="/images/logo.jpg" />
+      <text class="post-date">Nov 25 2017</text>
+    </view>
+    <text class="post-title">无敌汉堡</text>
+    <image class="post-img" src="/images/post/2.jpg"></image>
+    <text class="post-content">香辣鸡腿堡1个+香辣鸡翅2块+醇豆浆甜（热）1杯
+    </text>
+    <view class="post-like">
+      <image class="post-like-img" src="/images/icon/chat.png"></image>
+      <text class="post-like-text">92</text>
+      <image class="post-like-img" src="/images/icon/view.png"></image>
+      <text class="post-like-text">65</text>
+    </view>
+  </view>
+  <view class="post-container">
+    <view class="post-shop-date">
+      <image class="post-shop-logo" src="/images/logo.jpg" />
+      <text class="post-date">Nov 25 2017</text>
+    </view>
+    <text class="post-title">肯德基新早餐</text>
+    <image class="post-img" src="/images/post/3.jpg"></image>
+    <text class="post-content">培根蛋帕尼尼美式餐 芝士培根蛋帕尼尼1份+ 美式（中）1杯
+    </text>
+    <view class="post-like">
+      <image class="post-like-img" src="/images/icon/chat.png"></image>
+      <text class="post-like-text">92</text>
+      <image class="post-like-img" src="/images/icon/view.png"></image>
+      <text class="post-like-text">65</text>
+    </view>
+  </view>
+  <view class="post-container">
+    <view class="post-shop-date">
+      <image class="post-shop-logo" src="/images/logo.jpg" />
+      <text class="post-date">Nov 25 2017</text>
+    </view>
+    <text class="post-title">肯德基奥尔良烤翅</text>
+    <image class="post-img" src="/images/post/4.jpg"></image>
+    <text class="post-content">经典奥尔良烤翅+ 炸鸡+ 美式（中）1杯
+    </text>
+    <view class="post-like">
+      <image class="post-like-img" src="/images/icon/chat.png"></image>
+      <text class="post-like-text">92</text>
+      <image class="post-like-img" src="/images/icon/view.png"></image>
+      <text class="post-like-text">65</text>
+    </view>
+  </view>
+</view>

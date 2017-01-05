@@ -1,0 +1,8 @@
+<!--pages/welcome/welcome.wxml-->
+<view class="container">
+  <image class="logo" src="/images/logo.jpg"></image>
+  <text class="app-name">肯德基餐饮综合服务小程序</text>
+  <view class="motto-container">
+    <text class="motto">开启个性化餐饮服务</text>
+  </view>
+</view>
